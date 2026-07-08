@@ -8,10 +8,7 @@ An interactive **HR Analytics Dashboard** developed using **Power BI** and **Mic
 
 ## Main Dashboard
 
-## Main Dashboard
-
-![Dashboard](Dashboard%20Image.jpg)
-
+![Dashboard](dashboard.png)
 ## Department-wise Attrition
 
 ![Department](Administration.jpg)
