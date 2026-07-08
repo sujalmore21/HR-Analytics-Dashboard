@@ -8,7 +8,17 @@ An interactive **HR Analytics Dashboard** developed using **Power BI** and **Mic
 
 ## Main Dashboard
 
+## Main Dashboard
+
 ![Dashboard](Dashboard%20Image.jpg)
+
+## Department-wise Attrition
+
+![Department](Administration.jpg)
+
+## Age Group Analysis
+
+![Age Group](Age%20wise.jpg)
 
 ---
 
