@@ -93,6 +93,10 @@ Built an interactive HR dashboard using Power BI with KPI cards, slicers, charts
 
 # 📷 Dashboard Screenshots
 
+## Main Dashboard
+
+![Dashboard](dashboard.png)
+
 ## Department-wise Attrition
 
 ![Department Analysis](Administration.jpg)
